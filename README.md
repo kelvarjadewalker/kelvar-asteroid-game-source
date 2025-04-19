@@ -1,2 +1,3 @@
-# kelvar-asteroid-game-source
-C# Source code for my asteroid game demo
+# Kelvar's Asteroid Like Game Source
+
+This is the C# Source code for my asteroid game demo
